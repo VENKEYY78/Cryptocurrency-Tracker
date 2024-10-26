@@ -1,0 +1,39 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-side {
+  display: flex;
+  align-items: center;
+}
+
+.currencyImage {
+  height: 30px;
+  width: 30px;
+  padding-right: 5px;
+  margin: 5px;
+}
+
+.currency-name {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 20px;
+}
+
+.right-side {
+  display: flex;
+}
+
+.rupes-usd {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+.rupes-euro {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 12px;
+  text-align: left;
+}

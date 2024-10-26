@@ -1,0 +1,52 @@
+.app-main-bg-container {
+  background-color: transparent;
+  background-size: cover;
+  width: 100vw;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  text-align: center;
+  color: #00e7ff;
+  font-family: roboto;
+  font-size: 40px;
+}
+
+.logo {
+  width: 100%;
+}
+
+.Cion-type-container {
+  width: 90%;
+  background-size: cover;
+  border: 2px solid #00e7ff;
+  border-radius: 5px;
+}
+
+.top-section {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+}
+
+.currency-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.coin {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 10px;
+}
+
+.list-of-currency {
+  list-style-type: none;
+  padding: 20px;
+}
